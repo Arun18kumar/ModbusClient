@@ -7,7 +7,7 @@ import binascii
 
 while True:
     # Define the server's IP address and port
-    server_ip = "10.9.220.43"  # Replace with your server's IP address
+    server_ip = "*.*.**"  # Replace with your server's IP address
     server_port = 443  # Replace with your server's Modbus port number
 
     # Define the Modbus unit ID (slave address)
