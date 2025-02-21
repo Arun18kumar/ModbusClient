@@ -27,8 +27,8 @@ logger = logging.getLogger(__name__)
 
 
 def batData():
-    bat_server_ip = "10.9.220.42"  # Replace with your server's IP address
-    bat_server_port = 15153 
+    bat_server_ip = "****"  # Replace with your server's IP address
+    bat_server_port = 0000 
 
     bat_client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
